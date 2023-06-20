@@ -36,3 +36,6 @@ We welcome contributions from the community to enhance the repository's function
 # Note: 
 It's important to mention that the effectiveness of the crack detection system may depend on factors such as the quality of input images and the diversity of the training dataset. 
 Continuous improvement and refinement of the model are recommended to achieve optimal performance in specific use cases.
+
+# URL of Web Application
+http://127.0.0.1:7860
