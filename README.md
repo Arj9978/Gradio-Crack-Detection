@@ -1,2 +1,13 @@
-# Gradio-Crack-Detection
-The Gradio-Crack Detection repository is an open-source project designed to classify images based on the presence of cracks. Cracks can occur in various materials and structures, such as buildings, pavements, or objects, and it is important to detect them accurately for maintenance and safety purposes.
+---
+title: Crack Detection Classifier
+emoji: 📊
+colorFrom: indigo
+colorTo: blue
+sdk: gradio
+sdk_version: 3.15.0
+app_file: app.py
+pinned: false
+license: apache-2.0
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
